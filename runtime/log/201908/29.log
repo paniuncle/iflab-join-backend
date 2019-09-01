@@ -1,0 +1,1909 @@
+---------------------------------------------------------------
+[ 2019-08-29T23:01:26+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[ error ] [0]致命错误: Call to undefined method app\api\model\User::where()
+---------------------------------------------------------------
+[ 2019-08-29T23:01:40+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.026906s] [吞吐率：37.17req/s] [内存消耗：1,077.27kb] [文件加载：30]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\api\model\User::where()[/Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php:14]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:08+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.018005s] [吞吐率：55.54req/s] [内存消耗：1,077.27kb] [文件加载：30]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\api\model\User::where()[/Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php:14]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:08+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.018703s] [吞吐率：53.47req/s] [内存消耗：1,077.27kb] [文件加载：30]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\api\model\User::where()[/Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php:14]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:09+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.019746s] [吞吐率：50.64req/s] [内存消耗：1,077.27kb] [文件加载：30]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [0]致命错误: Call to undefined method app\api\model\User::where()[/Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php:14]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:27+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.043535s] [吞吐率：22.97req/s] [内存消耗：2,086.95kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:29+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.032459s] [吞吐率：30.81req/s] [内存消耗：2,086.95kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:48+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.032597s] [吞吐率：30.68req/s] [内存消耗：2,087.01kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:49+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.029596s] [吞吐率：33.79req/s] [内存消耗：2,087.01kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:49+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.027814s] [吞吐率：35.95req/s] [内存消耗：2,087.01kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:50+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.026795s] [吞吐率：37.32req/s] [内存消耗：2,087.01kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2019-08-29T23:02:50+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.030024s] [吞吐率：33.31req/s] [内存消耗：2,087.01kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:295]
+---------------------------------------------------------------
+[ 2019-08-29T23:03:43+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.052908s] [吞吐率：18.90req/s] [内存消耗：2,196.21kb] [文件加载：41]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003146s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ error ] [10501]SQLSTATE[42S02]: Base table or view not found: 1146 Table 'iflab.user' doesn't exist[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:385]
+---------------------------------------------------------------
+[ 2019-08-29T23:03:53+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.043608s] [吞吐率：22.93req/s] [内存消耗：2,213.04kb] [文件加载：40]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000779s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.007145s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  username = '' ) LIMIT 1 [ RunTime:0.002402s ]
+[ error ] [8]Trying to get property 'salt' of non-object[/Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php:17]
+---------------------------------------------------------------
+[ 2019-08-29T23:04:58+08:00 ] 0.0.0.0 GET localhost:8888/index.php/api/signin/signin
+[运行时间：0.019753s] [吞吐率：50.63req/s] [内存消耗：1,035.62kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signin',
+    2 => 'signin',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:05:56+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.020169s] [吞吐率：49.58req/s] [内存消耗：1,038.70kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '29',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '',
+  'password' => '',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:06:20+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.012612s] [吞吐率：79.29req/s] [内存消耗：1,038.83kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:06:30+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.015070s] [吞吐率：66.36req/s] [内存消耗：1,038.83kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:06:51+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.015155s] [吞吐率：65.98req/s] [内存消耗：1,038.83kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:07:37+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.015537s] [吞吐率：64.36req/s] [内存消耗：1,038.83kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:07:38+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.016700s] [吞吐率：59.88req/s] [内存消耗：1,038.83kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:07:38+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.016569s] [吞吐率：60.35req/s] [内存消耗：1,038.83kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:08:08+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.014355s] [吞吐率：69.66req/s] [内存消耗：1,038.41kb] [文件加载：27]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:08:35+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.036012s] [吞吐率：27.77req/s] [内存消耗：2,172.35kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001105s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.001061s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  username = '刘朔言' ) LIMIT 1 [ RunTime:0.000319s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:09:13+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.039465s] [吞吐率：25.34req/s] [内存消耗：2,171.94kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000768s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.001204s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  username = '刘朔言' ) LIMIT 1 [ RunTime:0.000464s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:09:38+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.036580s] [吞吐率：27.34req/s] [内存消耗：2,174.55kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000618s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000704s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  username = '刘朔言' ) LIMIT 1 [ RunTime:0.000304s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:14:15+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.040798s] [吞吐率：24.51req/s] [内存消耗：2,174.55kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000540s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000825s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  username = '刘朔言' ) LIMIT 1 [ RunTime:0.000265s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:14:42+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.038190s] [吞吐率：26.18req/s] [内存消耗：2,174.55kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000546s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000794s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  username = '刘朔言' ) LIMIT 1 [ RunTime:0.000331s ]
+---------------------------------------------------------------
+[ 2019-08-29T15:18:42+00:00 ] 0.0.0.0 OPTIONS localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.024909s] [吞吐率：40.15req/s] [内存消耗：753.87kb] [文件加载：23]
+[ error ] [0]Parse error: syntax error, unexpected '$token' (T_VARIABLE)[/Users/pani/PhpstormProjects/iflab-join/application/common.php:39]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T15:18:45+00:00 ] 0.0.0.0 OPTIONS localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.016395s] [吞吐率：60.99req/s] [内存消耗：753.87kb] [文件加载：23]
+[ error ] [0]Parse error: syntax error, unexpected '$token' (T_VARIABLE)[/Users/pani/PhpstormProjects/iflab-join/application/common.php:39]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2019-08-29T23:18:56+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/signIn/signIn
+[运行时间：0.042523s] [吞吐率：23.52req/s] [内存消耗：2,175.43kb] [文件加载：37]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'signIn',
+    2 => 'signIn',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '44',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '刘朔言',
+  'password' => '123456',
+)
+[ info ] [ RUN ] app\api\controller\SignIn->signIn[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Signin.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001166s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.001223s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  username = '刘朔言' ) LIMIT 1 [ RunTime:0.000353s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:30:43+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.055236s] [吞吐率：18.10req/s] [内存消耗：2,171.65kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000949s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.001245s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.004069s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:44:58+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.039549s] [吞吐率：25.29req/s] [内存消耗：2,171.65kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000574s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000530s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000297s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:49:39+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.037418s] [吞吐率：26.73req/s] [内存消耗：2,174.92kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000752s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000778s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000283s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:50:03+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.031842s] [吞吐率：31.41req/s] [内存消耗：2,174.92kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000651s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000767s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000671s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:50:29+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.036749s] [吞吐率：27.21req/s] [内存消耗：2,174.92kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000484s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000731s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000295s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:50:41+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/createUser
+[运行时间：0.034329s] [吞吐率：29.13req/s] [内存消耗：2,215.97kb] [文件加载：38]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'createUser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '46',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '王仁泉',
+  'password' => 'testtest',
+)
+[ info ] [ RUN ] app\api\controller\UserManage->createUser[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000845s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000816s ]
+[ error ] [0]数据表字段不存在:[password][/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2019-08-29T23:50:47+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.038406s] [吞吐率：26.04req/s] [内存消耗：2,174.92kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001151s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000924s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000457s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:51:08+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/createUser
+[运行时间：0.035620s] [吞吐率：28.07req/s] [内存消耗：2,216.22kb] [文件加载：38]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'createUser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '46',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '王仁泉',
+  'password' => 'testtest',
+)
+[ info ] [ RUN ] app\api\controller\UserManage->createUser[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000456s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000581s ]
+[ error ] [0]数据表字段不存在:[password][/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Builder.php:115]
+---------------------------------------------------------------
+[ 2019-08-29T23:51:28+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/createUser
+[运行时间：0.040569s] [吞吐率：24.65req/s] [内存消耗：2,192.05kb] [文件加载：40]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'createUser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '46',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '王仁泉',
+  'password' => 'testtest',
+)
+[ info ] [ RUN ] app\api\controller\UserManage->createUser[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000737s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000702s ]
+[ error ] [10501]SQLSTATE[HY000]: General error: 1364 Field 'salt' doesn't have a default value[/Users/pani/PhpstormProjects/iflab-join/thinkphp/library/think/db/Connection.php:453]
+---------------------------------------------------------------
+[ 2019-08-29T23:51:49+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/createUser
+[运行时间：0.030390s] [吞吐率：32.91req/s] [内存消耗：2,145.41kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'createUser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '46',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '王仁泉',
+  'password' => 'testtest',
+)
+[ info ] [ RUN ] app\api\controller\UserManage->createUser[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000465s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000592s ]
+[ sql ] [ SQL ] INSERT INTO `iflab_user` (`username` , `passwd` , `salt`) VALUES ('王仁泉' , '8db74917e391e993790fde8841280db5' , '99999') [ RunTime:0.001406s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:51:54+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.032945s] [吞吐率：30.35req/s] [内存消耗：2,175.70kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000658s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000812s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000530s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:52:45+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/createUser
+[运行时间：0.027356s] [吞吐率：36.55req/s] [内存消耗：2,146.73kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'createUser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '46',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => '蒋颖睿',
+  'password' => 'testtest',
+)
+[ info ] [ RUN ] app\api\controller\UserManage->createUser[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000655s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000555s ]
+[ sql ] [ SQL ] INSERT INTO `iflab_user` (`username` , `passwd` , `salt` , `create_time` , `update_time`) VALUES ('蒋颖睿' , '9f168cb5481d1aea23b5867a2b054829' , '100000' , 1567093965 , 1567093965) [ RunTime:0.000862s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:53:02+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.025201s] [吞吐率：39.68req/s] [内存消耗：2,175.97kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000501s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000677s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000440s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:53:09+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/createUser
+[运行时间：0.027671s] [吞吐率：36.14req/s] [内存消耗：2,146.72kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'createUser',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '42',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'username' => 'ceshi',
+  'password' => 'testtest',
+)
+[ info ] [ RUN ] app\api\controller\UserManage->createUser[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000433s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000568s ]
+[ sql ] [ SQL ] INSERT INTO `iflab_user` (`username` , `passwd` , `salt` , `create_time` , `update_time`) VALUES ('ceshi' , '8db74917e391e993790fde8841280db5' , '99999' , 1567093989 , 1567093989) [ RunTime:0.000695s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:53:09+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.024725s] [吞吐率：40.44req/s] [内存消耗：2,176.24kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000498s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000538s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000292s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:56:57+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.032291s] [吞吐率：30.97req/s] [内存消耗：2,179.34kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000560s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.002828s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000484s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:56:59+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.026485s] [吞吐率：37.76req/s] [内存消耗：2,179.34kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000468s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000500s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000279s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:57:04+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.028578s] [吞吐率：34.99req/s] [内存消耗：2,179.34kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000585s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000996s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000443s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:58:19+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.045385s] [吞吐率：22.03req/s] [内存消耗：2,179.34kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001140s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.001051s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000329s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:58:53+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.042174s] [吞吐率：23.71req/s] [内存消耗：2,179.34kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000472s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000508s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000250s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:59:20+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.031379s] [吞吐率：31.87req/s] [内存消耗：2,179.34kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000487s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000709s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000443s ]
+---------------------------------------------------------------
+[ 2019-08-29T23:59:46+08:00 ] 0.0.0.0 POST localhost:8888/index.php?s=/api/userManage/getList
+[运行时间：0.033648s] [吞吐率：29.72req/s] [内存消耗：2,179.34kb] [文件加载：36]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'api',
+    1 => 'userManage',
+    2 => 'getList',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'content-length' => '2',
+  'accept' => 'application/json, text/plain, */*',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'cors',
+  'content-type' => 'application/json;charset=UTF-8',
+  'origin' => 'http://localhost:8080',
+  'sec-fetch-site' => 'same-site',
+  'referer' => 'http://localhost:8080/',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\api\controller\UserManage->getList[ /Users/pani/PhpstormProjects/iflab-join/application/api/controller/Usermanage.php ]
+[ info ] [ SESSION ] INIT array (
+  'id' => '',
+  'var_session_id' => '',
+  'prefix' => 'think',
+  'type' => '',
+  'auto_start' => true,
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000409s ] mysql:host=127.0.0.1;port=8889;dbname=iflab;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `iflab_user` [ RunTime:0.000819s ]
+[ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  `status` = 1 [ RunTime:0.000304s ]
