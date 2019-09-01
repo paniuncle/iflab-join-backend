@@ -8,7 +8,7 @@ use app\api\model\Apply;
 use app\api\model\Batch;
 use think\App;
 
-class BatchManage
+class Batchmanage
 {
     public function getList(){
         if (signCheck() == false){

@@ -9,7 +9,7 @@ use app\api\model\Batch;
 use app\api\model\Comment;
 use think\App;
 
-class ApplyManage
+class Applymanage
 {
     public function addApplication(){
         $fullname = input('post.fullname');

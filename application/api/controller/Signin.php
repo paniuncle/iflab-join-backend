@@ -5,7 +5,7 @@ use app\api\model\User as UserModel;
 use app\api\model\User;
 use think\Session;
 
-class SignIn
+class Signin
 {
     public function signIn(){
         $username = input('post.username');

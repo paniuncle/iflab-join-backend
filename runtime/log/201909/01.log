@@ -5870,3 +5870,33 @@
 [ sql ] [ SQL ] SELECT * FROM `iflab_user` WHERE  (  token = '954d1608d38905889dcc83c95f8f6b79' ) LIMIT 1 [ RunTime:0.000156s ]
 [ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `iflab_comment` WHERE  (  aid = 1 AND username = '刘朔言' ) LIMIT 1 [ RunTime:0.000146s ]
 [ sql ] [ SQL ] SELECT AVG(sum) AS tp_avg FROM `iflab_comment` WHERE  (  aid = 1 ) LIMIT 1 [ RunTime:0.000117s ]
+---------------------------------------------------------------
+[ 2019-09-01T10:18:42+08:00 ] 0.0.0.0 GET localhost:8888/
+[运行时间：0.048678s] [吞吐率：20.54req/s] [内存消耗：1,368.22kb] [文件加载：38]
+[ info ] [ LANG ] /Users/pani/PhpstormProjects/iflab-join/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost:8888',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36',
+  'sec-fetch-mode' => 'navigate',
+  'sec-fetch-user' => '?1',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3',
+  'sec-fetch-site' => 'none',
+  'accept-encoding' => 'gzip, deflate, br',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'cookie' => 'token=954d1608d38905889dcc83c95f8f6b79',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ /Users/pani/PhpstormProjects/iflab-join/application/index/controller/Index.php ]
+[ info ] [ LOG ] INIT File

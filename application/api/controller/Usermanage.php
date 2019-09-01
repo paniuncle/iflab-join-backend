@@ -6,7 +6,7 @@ namespace app\api\controller;
 
 use app\api\model\User;
 
-class UserManage
+class Usermanage
 {
     public function getList(){
         if (signCheck() == false){

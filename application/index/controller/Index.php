@@ -9,5 +9,11 @@ class Index
     {
         //Config::set("test","test");
         //echo Config::get("test");
+
+        $password = "12345";
+
+        $password = md5($password);
+        $password = md5($password.'123456');
+        echo $password;
     }
 }

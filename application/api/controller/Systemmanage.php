@@ -4,7 +4,7 @@
 namespace app\api\controller;
 
 
-class SystemManage
+class Systemmanage
 {
     public function setConfig(){
 
