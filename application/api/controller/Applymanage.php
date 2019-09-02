@@ -19,16 +19,23 @@ class Applymanage
         $phone = input('post.phone');
         $qq = input('post.qq');
 
-        $db_apply = new Apply();
-        $db_apply->fullname = $fullname;
-        $db_apply->student_id = $stu_num;
-        $db_apply->class = $grade_class;
-        $db_apply->sex = $sex;
-        $db_apply->phone = $phone;
-        $db_apply->qq = $qq;
-        $db_apply->save();
+        $db_apply_check = new Apply();
+        $num = $db_apply_check->where("student_id = '$stu_num'")->count();
+        if ($num > 0){
+            return json(['errcode'=>1, 'msg'=>'exists']);
+        }else{
+            $db_apply = new Apply();
+            $db_apply->fullname = $fullname;
+            $db_apply->student_id = $stu_num;
+            $db_apply->class = $grade_class;
+            $db_apply->sex = $sex;
+            $db_apply->phone = $phone;
+            $db_apply->qq = $qq;
+            $db_apply->save();
 
-        return json(['errcode'=>0, 'msg'=>'ok']);
+            return json(['errcode'=>0, 'msg'=>'ok']);
+        }
+
 
     }
     public function getList(){
